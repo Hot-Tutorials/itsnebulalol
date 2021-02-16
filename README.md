@@ -52,9 +52,8 @@ public class drydandyfan extends Person implements Gamer, Developer {
 <br />
 <br />
 
-![drydandyfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hot-Tutorials&show_icons=true&theme=dracula)
-<br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hot-Tutorials&layout=compact)](https://github.com/Hot-Tutorials/github-readme-stats)
+![drydandyfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hot-Tutorials&show_icons=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hot-Tutorials&layout=compact)](https://github.com/Hot-Tutorials/github-readme-stats)    
 
 [website]: https://drydandyfan.ga/
