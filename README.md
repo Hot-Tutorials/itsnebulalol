@@ -1,124 +1,56 @@
 <div align="center">
 
-[![Website](https://img.shields.io/website?logo=google-chrome&logoColor=white&down_color=red&down_message=offline&label=arcmc.cf&style=for-the-badge&up_message=online&url=https%3A%2F%2Farcmc.cf)][arcwebsite]
-[![Website](https://img.shields.io/website?logo=google-chrome&logoColor=white&down_color=red&down_message=offline&label=nebulayt.xyz&style=for-the-badge&up_message=online&url=https%3A%2F%2Fnebulayt.xyz)][website]
-[![GitHub followers](https://img.shields.io/github/followers/itsnebulalol?logo=github&style=for-the-badge&logoColor=white)](https://github.com/itsnebulalol)
-[![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?logo=twitch&logoColor=white&style=for-the-badge)][twitch]
-![Powered by Black Magic](https://img.shields.io/static/v1?label=Powered%20By&message=Black%20Magic&color=black&style=for-the-badge&logo=github-sponsors&logoColor=white)
+[![Website](https://img.shields.io/website?logo=google-chrome&logoColor=white&down_color=red&down_message=offline&label=drydandyfan&style=for-the-badge&up_message=online&url=https%3A%2F%2Fdrydandyfan.ga)][website]
+[![GitHub followers](https://img.shields.io/github/followers/Hot-Tutorials?logo=github&style=for-the-badge&logoColor=white)](https://github.com/Hot-Tutorials)
 ![Contains Tasty Spaghetti Code](https://img.shields.io/static/v1?label=Contains&message=Tasty%20Spaghetti%20Code&color=yellow&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![It Works, Somehow](https://img.shields.io/static/v1?label=It%20Works&message=Somehow&color=green&style=for-the-badge&logo=broadcom&logoColor=white)
-[![YouTube subscribers](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCE86Qx7We3sZjgqMrX2yfyg&key=AIzaSyBcdVkXgfoIy4k3QyG9dyib9kFqCEytWuI&style=for-the-badge&color=red&labelColor=ce4630)][youtube]
-<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www.youtube.com/nebulalol">Nebula</a>!</h1>
+<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm drydandyfan, AKA Hot-Tutorials!</h1>
 </div>
 
 ```java
-public class Nebula extends Person implements YouTuber, Gamer, Developer {
-    @Override
-    public void aboutMe() {
-        public String funFact = "I like to play guitar";
-    }
+public class drydandyfan extends Person implements Gamer, Developer {
+
+	@Override
+	public String getName() {
+		return "drydandyfan";
+	}
+	
+	@Override
+	public List<String> getAliases() {
+		return Arrays.asList("Hot Tutorials", "ChiefMadDog");
+	}
+
+	@Override
+	public String aboutme() {
+		return "I like to cook" +
+		"\n" + "I like to code";
+	}
     
-    @Override
-    public void codingStuff() {
-        public String[] workingOn = ["Arc", "Cobalt Client", "code-folder-generator", "nebulayt.xyz"];
-        public String[] learning = ["Java", "Discord.JS", "Jekyll/Liquid"];
-        public String tryingTo = "Make good GUIs in Minecraft Clients / Mods";
-    }
+	@Override
+	public void codingStuff() {
+		String[] workingOn = ["Discord Bots", "Minecraft PVP Clients", "Websites"];
+		String[] learning = ["Spring Boot", "NodeJS"];
+		String tryingTo = "Make a forum using Spring Boot";
+	}
+	
 }
 ```
 
 <!-- 
 **Languages and Tools:**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />
-<img align="left" alt="Affinity Designer" width="26px" src="https://simpleicons.org/icons/affinitydesigner.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Unity" width="26px" src="https://gallery.leapmotion.com/wp-content/uploads/2016/12/unity-logo.png" />
-<img align="left" alt="C#" width="26px" src="https://skillvalue.com/jobs/wp-content/uploads/sites/7/2019/01/csharp_logo.png" />
-<img align="left" alt="Java" width="26px" src="http://www.athenaglobus.com/wp-content/uploads/2014/12/java-logo-png.png" /> 
--->
+### Languages and Tools:
 
----
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-[![Spotify](https://spotify-readme.itsnebulalol.vercel.app/api/spotify)](https://open.spotify.com/user/ednl3jpgrarpezv89mu6hhn2n)
+<br />
+<br />
 
----
-
-📺 **Latest YouTube Videos**
-
-<!-- YOUTUBE:START -->
-- [Render Test (23CQ, 400FPS, 720p Upscaled) | Minecraft](https://www.youtube.com/watch?v=0qUaJjWQaPY)
-- [Amazon Fire Tablet Turned into “Stock” Android | #Shorts](https://www.youtube.com/watch?v=x1BaWAyy45Y)
-- [Mine Diamonds Parody but it's 500% louder](https://www.youtube.com/watch?v=ARJQsNlDoOE)
-- [Minecraft, but you have to stay on the same Y level | Challenge](https://www.youtube.com/watch?v=LKX6_omq3f4)
-- [why mspaint is best](https://www.youtube.com/watch?v=I1EUctrbNMU)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
-<!--📕 **Latest Blog Posts**-->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!--➡️ [more posts...][website]-->
-
----
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-HTML                     35 mins             ███████████████░░░░░░░░░░   61.18% 
-JavaScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   26.64% 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.77% 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
-
-🔥 Editors: 
-WebStorm                 58 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-website                  39 mins             █████████████████░░░░░░░░   68.08% 
-Music-bot                14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.14% 
-LiveBot                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.78%
-
-💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.0%
-
-```
-
-
-<!--END_SECTION:waka-->
-
----
-
-<details>
-  	<summary>:zap: GitHub Stats</summary>
-
-	<img align="left" alt="Nebula's Github Stats" src="https://github-readme-stats.itsnebulalol.vercel.app/api/top-langs/?username=itsnebulalol&show_icons=true&hide_border=true&theme=radical" />
-  	<img align="left" alt="Nebula's Github Stats" src="https://github-readme-stats.itsnebulalol.vercel.app/api?username=itsnebulalol&show_icons=true&hide_border=true&theme=radical" />
-  
-</details>
-
-<details>
-  	<summary>:zap: GitHub Activity</summary>
-
-  	<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/itsnebulalol/code-folder-generator/pull/2) in [itsnebulalol/code-folder-generator](https://github.com/itsnebulalol/code-folder-generator)
-  	<!--END_SECTION:activity-->
-  
-</details>
-
-[website]: https://nebulayt.xyz
-[arcwebsite]: https://arcmc.cf
-[youtube]: https://www.youtube.com/nebulalol
-[twitch]: https://twitch.tv/itsnebulalol
+[website]: https://drydandyfan.ga/
