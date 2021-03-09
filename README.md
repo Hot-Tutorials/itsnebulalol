@@ -28,8 +28,9 @@ public class drydandyfan extends Person implements Gamer, Developer {
     
 	@Override
 	public void codingStuff() {
-		String[] workingOn = ["Discord Bots", "Minecraft PVP Clients", "Websites"];
+		String[] workingOn = ["Discord Bots", "Quick CSS Framework", "Websites"];
 		String[] learning = ["Spring Boot", "NodeJS"];
+		String prioritizedProject = "Quick CSS";
 		String tryingTo = "Make a forum using Spring Boot";
 	}
 	
