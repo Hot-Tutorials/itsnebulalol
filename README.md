@@ -28,10 +28,9 @@ public class drydandyfan extends Person implements Gamer, Developer {
     
 	@Override
 	public void codingStuff() {
-		String[] workingOn = ["Discord Bots", "Quick CSS Framework", "Websites"];
-		String[] learning = ["Spring Boot", "NodeJS"];
-		String prioritizedProject = "Quick CSS";
-		String tryingTo = "Make a forum using Spring Boot";
+		String[] workingOn = ["Discord Bots", "Websites"];
+		String[] learning = ["NodeJS", "ReactJS Framework"];
+		String tryingTo = "Making a personal website with tools, API's and just a bunch of cool stuff";
 	}
 	
 }
@@ -58,4 +57,4 @@ public class drydandyfan extends Person implements Gamer, Developer {
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hot-Tutorials&layout=compact)](https://github.com/Hot-Tutorials/github-readme-stats)    
 
-[website]: https://drydandyfan.ga/
+[website]: https://hottutorials.me/
