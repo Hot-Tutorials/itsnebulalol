@@ -23,8 +23,8 @@ public class Lynith extends Person implements Gamer, Developer {
     
 	@Override
 	public void codingStuff() {
-		String[] workingOn = ["Discord Bots", "Websites"];
-		String[] learning = ["Nothing"];
+		String[] workingOn = {"Discord Bots", "Websites"};
+		String[] learning = {"Nothing"};
 	}
 	
 }
