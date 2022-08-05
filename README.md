@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LynithDev/LynithDev/master/images/avatar_transparent.png.png" width="140">
-<br><br>
-<img src="https://raw.githubusercontent.com/LynithDev/LynithDev/master/images/image.png" height="50">
+<!-- <img src="https://raw.githubusercontent.com/LynithDev/LynithDev/master/images/avatar_transparent.png.png" width="140">
+<br><br> -->
+<img src="https://raw.githubusercontent.com/LynithDev/LynithDev/master/images/image.png" height="100">
 
 </div>
 
