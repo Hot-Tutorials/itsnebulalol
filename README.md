@@ -10,8 +10,8 @@
 
 ## 🛠️ Tools and Languages
 
-<img src="https://skills.thijs.gg/icons?i=java,nodejs,css,html,javascript,typescript,rust,go" height="40">
-<img src="https://skills.thijs.gg/icons?i=figma,vim,bash,mongodb,git,linux" height="40">
+<img src="https://skillicons.dev/icons?i=java,nodejs,css,html,javascript,typescript,rust,kotlin,react,tailwind" height="40">
+<img src="https://skillicons.dev/icons?i=figma,bash,mongodb,mysql,git,linux" height="40">
 
 
 ## 👨‍💻 About Me
